@@ -10,7 +10,7 @@ So that I can gauge my progress compared to my peers.
  
 # Acceptance Criteria 
 
-![Alt text](/assets/images/Screen Shot 2020-08-20 at 12.13.30 AM.png?raw=true "Acceptance Criteria Image")
+![Alt text](/assets/images/acceptancecriteria.png.?raw=true "Acceptance Criteria Image")
 
 
 
