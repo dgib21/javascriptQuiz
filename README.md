@@ -4,11 +4,11 @@ This was an assignment given by the UT Coding Bootcamp.  Students are suppose to
 
 # User Story 
 As a coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+I want to take a timed quiz on JavaScript fundamentals that stores high scores
+So that I can gauge my progress compared to my peers.  
 
  
-# Follow these steps to complete the challenge:
+# Follow these steps to complete the assignment:
 
 1. Clone your starter code [here](https://github.com/coding-boot-camp/friendly-parakeet).
 
@@ -17,7 +17,7 @@ SO THAT I can gauge my progress compared to my peers
 
 
 # My Finished Product
-Here is the [Deployed Application Link](https://dgib21.github.io/my_password_generator/) for my assignment. 
+Here is the [Deployed Application Link](https://dgib21.github.io/javascriptQuiz/) for my assignment. 
 
 ![Alt text](/assets/images/acceptanceCriteria.png?raw=true "Acceptance Criteria Image")
 
