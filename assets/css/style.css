@@ -14,3 +14,23 @@ header a {
 
     color: white; 
 }
+/* styling main section  */
+
+main {
+
+    background-color: black;
+    color: white; 
+    text-align: center; 
+
+}
+
+main button {
+
+    box-shadow: 0 0 10px 2px;
+    font-size: 25px; 
+
+}
+main button:hover{
+
+    background: teal; 
+}
