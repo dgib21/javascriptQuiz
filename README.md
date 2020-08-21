@@ -10,7 +10,8 @@ So that I can gauge my progress compared to my peers.
  
 # Acceptance Criteria 
 
-![Alt text](/assets/images/acceptancecriteria.png.?raw=true "Acceptance Criteria Image")
+![Alt text](/assets/images/acceptancecriteria.png?raw=true "Acceptance Criteria Image")
+
 
 
 
