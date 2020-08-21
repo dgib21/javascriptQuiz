@@ -34,3 +34,8 @@ main button:hover{
 
     background: teal; 
 }
+
+.hide {
+
+    display: none; 
+}
