@@ -1,0 +1,16 @@
+/* Header Styles */
+header {
+
+    display: flex;
+    justify-content: space-between;
+   background-color: black;
+    margin: 30px auto;
+    color: white; 
+}
+
+/* styling a element  */
+
+header a {
+
+    color: white; 
+}
