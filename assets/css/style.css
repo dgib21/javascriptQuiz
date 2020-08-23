@@ -35,7 +35,14 @@ main button:hover{
     background: teal; 
 }
 
-.hide {
-
-    display: none; 
+footer {
+    width: 80%;
+    text-align: left;
+    margin: 10px auto;
+}
+footer p {
+    border-top: lightgray solid 1px;
+    margin-top: 5px;
+    font-size: 35px;
+    color: gray;
 }
